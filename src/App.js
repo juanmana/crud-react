@@ -6,9 +6,9 @@ import EditForm from "./components/EditForm";
 
 function App() {
   const usersData = [
-    { id: uuidv4(), name: "Tania", username: "floppydiskette" },
-    { id: uuidv4(), name: "Craig", username: "siliconeidolon" },
-    { id: uuidv4(), name: "Ben", username: "benisphere" }
+    { id: uuidv4(), name: "Juan", username: "Juanmana" },
+    { id: uuidv4(), name: "Pepe", username: "pepepepe" },
+    { id: uuidv4(), name: "Jose", username: "Jososos" }
   ];
 
   //state
